@@ -1,0 +1,31 @@
+KEYLOGGER DETECTOR REPORT
+========================================
+
+Scan Time: 2026-02-22 21:51:48.826697
+
+[NETWORK] Active connection to 64:ff9b::142a:4158:443
+[NETWORK] Active connection to 40.119.249.228:443
+[NETWORK] Active connection to 64:ff9b::3468:a635:443
+[NETWORK] Active connection to 2603:1061:11::254:443
+[NETWORK] Active connection to 64:ff9b::d59:b30e:443
+[NETWORK] Active connection to 64:ff9b::23ba:f79c:443
+[NETWORK] Active connection to 2620:1ec:50::11:443
+[NETWORK] Active connection to 40.119.249.228:443
+[NETWORK] Active connection to 10.98.209.170:53
+[NETWORK] Active connection to 2405:200:1630:a04::312c:8de1:443
+[NETWORK] Active connection to 10.98.209.170:53
+[NETWORK] Active connection to 2603:1040:a06:6:::443
+[NETWORK] Active connection to 10.98.209.170:53
+[NETWORK] Active connection to 2606:4700:90c1:d8b7:9aa8:d5f:ccf5:ac50:443
+[NETWORK] Active connection to 2600:1901:0:47fc:::443
+[NETWORK] Active connection to 52.137.106.217:443
+[NETWORK] Active connection to 4.213.25.241:443
+[NETWORK] Active connection to 64:ff9b::d6b:890b:443
+[NETWORK] Active connection to 2620:1ec:46::48:443
+[NETWORK] Active connection to 52.137.106.217:443
+[NETWORK] Active connection to 10.98.209.170:53
+[NETWORK] Active connection to 10.98.209.170:53
+[NETWORK] Active connection to 10.98.209.170:53
+
+Risk Score: 115
+Threat Level: HIGH RISK
